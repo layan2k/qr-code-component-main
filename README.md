@@ -23,7 +23,7 @@ Basic QR Code that to Frontend Mentor's page
 ### Links
 
 - Solution URL: [Github Link](https://github.com/layan2k/qr-code-component-main)
-- Live Site URL:  [Live site](https://your-live-site-url.com)
+- Live Site URL:  [Live site](https://qr-code-component-main-blond.vercel.app/)
 
 ### Built with
 
