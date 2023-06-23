@@ -10,6 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
+- [Resources](#resources)
 
 ## Overview
 
@@ -21,8 +22,8 @@ Basic QR Code that to Frontend Mentor's page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/layan2k/qr-code-component-main)
+- Live Site URL:  [Live site](https://your-live-site-url.com)
 
 ### Built with
 
@@ -45,7 +46,7 @@ I learned about positioning using flexbox.
 ## Author
 
 - Website - [LeslieTheDev](https://www.lesliethedev.me/)
-- Frontend Mentor - [@/layan2k](https://www.frontendmentor.io/profile/layan2k)
+- Frontend Mentor - [@layan2k](https://www.frontendmentor.io/profile/layan2k)
 - Twitter - [@layan_2k](https://www.twitter.com/layan_2k)
 
 ## Resources
