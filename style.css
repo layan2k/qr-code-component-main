@@ -1,0 +1,62 @@
+*{
+box-sizing: border-box;
+margin: 0;
+}
+
+/* Body css */
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+/* Attribustion CSS */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+/* Main Container Entry  */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* Qr Image Container Size */
+.img-container,img{
+    height: 250px;
+    width: 280px;
+    border-radius: 15px;
+}
+
+/* Our card that holds Qr code  */
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 320px;
+    background: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    gap: 25px;
+    padding: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+
+}
+/* Main Tagline */
+.card > h1 {
+    font-size: 18px;
+    width: 80%;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+/* Support Info about Scan */
+.card > span {
+    font-size: 15px;
+    width: 90%;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    text-align: center;
+}
